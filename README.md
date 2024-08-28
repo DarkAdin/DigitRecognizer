@@ -13,3 +13,5 @@ The image above shows:
 The algorithm performs these augmentations for every digit in the dataset, effectively increasing its size to three times the original. The labels are triplicated to compensate for this.
 
 The implemented algorithm returned a testing accuracy of $0.986380934715271$ as is, but the performance can be easily improved.
+
+![](performance.png "Performance")
